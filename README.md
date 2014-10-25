@@ -10,16 +10,16 @@
 *translated from http://tokyomax.jp/?p=923*
 
 Attack detection on soundin or a soundfile in MaxMSP 
-				v
-			 OSC
-				v
+	 |
+	OSC
+	 |
 Visual on in Processing
 
 
 **Processing2Max**
 Drawing in Processing
-				v
-			 OSC
-				v
+	 |
+	OSC
+	 |
 Synth in MaxMSP
 
