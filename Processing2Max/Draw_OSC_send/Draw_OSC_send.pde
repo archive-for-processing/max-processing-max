@@ -1,5 +1,4 @@
 // bridging MAX and Processing
-// translated form http://tokyomax.jp/?p=923
 
 // needs oscP5 library by andreas schlegel at http://www.sojamo.de/oscP5
 
